@@ -43,3 +43,5 @@ push
 :{branch}
 
 config
+alias.{aliasname} "{command}"
+--unset alias.{aliasname}
